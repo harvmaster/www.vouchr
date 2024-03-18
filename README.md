@@ -3,7 +3,7 @@
 Store gift cards on your devices all in one place.
 The standout feature is the SUPER-BRIGHT barcodes that are created locally that make it easier to scan in store.
 
-Demo[https://www.vouchr.mc.hzuccon.com/#/]
+[Demo](https://www.vouchr.mc.hzuccon.com/#/)
 
 ## Install the dependencies
 ```bash
